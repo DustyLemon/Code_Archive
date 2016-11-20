@@ -1,0 +1,16 @@
+http://www.tutorialspoint.com/python/python_networking.htm
+https://docs.python.org/2/library/socket.html
+http://www.bogotobogo.com/python/python_network_programming_server_client.php
+http://www.tutorialspoint.com/python/pdf/python_networking.pdf
+http://www.tutorialspoint.com/python/
+http://www.mcn.ece.ufl.edu/public/zhifeng/project/Socket_Programming/TutorialonNetworkProgrammingwithPython.pdf
+http://heather.cs.ucdavis.edu/~matloff/Python/PLN/FastLanePython.pdf
+http://www.mws.cz/files/Python_network_programming.pdf
+
+http://www.dabeaz.com/
+
+
+
+
+
+http://www.dabeaz.com/python/PythonNetBinder.pdf
